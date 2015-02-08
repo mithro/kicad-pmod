@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMOD-Host-2x-Basic
+D PMOD - Host side - Double width interface
+K PMOD, Digilent
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=1854802810
+$ENDCMP
+#
+$CMP PMOD-Host-x1-Basic
+D PMOD Host side connector
+K PMOD, Digilent, connector
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=1854802810
+$ENDCMP
+#
+#End Doc Library
