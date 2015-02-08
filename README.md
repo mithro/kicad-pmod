@@ -2,9 +2,7 @@ KiCad PMOD compatible connector Library
 =======================================
 
 KiCad Library to make it easy to create both host boards and expansion boards
-and which are compatible with the [Digilent
-"PMOD" specification](http://www.digilentinc.com/Pmods/licensing.cfm).
-
+and which are compatible with the Digilent "PMOD" specification.
 
 Library has;
  * Schematic components for "Host Side" and "Device Side" for the following PMOD types;
@@ -19,6 +17,51 @@ Library has;
 
  * (TODO) PCB module footprints.
  * (TODO) KiCad templates
+
+
+PMOD
+======================
+
+Pmod interface or Peripheral Module interface is a standard defined by Digilent
+Inc in the 
+[Digilent Pmod™ Interface Specification](http://www.digilentinc.com/Pmods/licensing.cfm)
+for peripherals used with FPGAs or micro-controllers.
+
+The PMOD header is found on a wide variety of FPGA boards including many not
+developed by Digilent,
+
+ * [Atlys](http://www.digilentinc.com/atlys/)
+   a Xilinx Spartan 6, video testing platform.
+   The board only has 1 "dual" PMOD header by default but can have another 4
+   dual added by the vmod-mib expansion board.
+
+ * [Zybo](http://www.digilentinc.com/Products/Detail.cfm?NavPath=2,400,1198&Prod=ZYBO), 
+   A low cost Xilinx Zynq development board.
+   The board has 5 dual PMOD headers and one dual Analog PMOD header. 
+
+ * [Zedboard](http://zedboard.org/product/zedboard),
+   A higher end, very popular Xilinx Zynq development board.
+   The board has 5 dual PMOD headers.
+
+ * [Mimas V2](http://numato.com/us/fpga-boards/xilinx/spartan6.html)
+   A budget Spartan 6 board with plenty of power.
+   The board has 5 dual PMOD headers.
+
+Example Pmod expansion boards can be purchased from;
+
+ * Digilent at http://www.digilentinc.com/Products/Catalog.cfm?NavPath=2,401&Cat=9
+ * Numato at http://numato.com/fpga-boards/expansion-modules.html
+ * Zedboard at http://zedboard.org/accessories/pmod
+ * Maxim at http://www.maximintegrated.com/en/design/design-technology/fpga-design-resources/pmod-compatible-plug-in-peripheral-modules.html
+
+PMOD "Extensions"
+---------------------
+
+There are a number of unofficial extensions to the PMOD standard. These include;
+ * Using multiple PMOD headers which are next to each other.
+ * An "Analog PMOD header" found on the Zybo.
+ * An "High speed PMOD header" found on the Zybo.
+
 
 Contributing
 ======================
