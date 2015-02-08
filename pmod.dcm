@@ -1,15 +1,45 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP PMOD-Host-2x-Basic
-D PMOD - Host side - Double width interface
-K PMOD, Digilent
-F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=1854802810
+$CMP PMOD-Device-x1-Type-1-GPIO
+D PMOD Device Type 1 (GPIO)
+K PMOD, Digilent, Device, Type 1, GPIO
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
 $ENDCMP
 #
-$CMP PMOD-Host-x1-Basic
-D PMOD Host side connector
-K PMOD, Digilent, connector
-F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=1854802810
+$CMP PMOD-Device-x2-Type-1A-GPIO
+D PMOD Device Type 1A (Expanded/Dual GPIO)
+K PMOD, Digilent, Device, Type 1A, GPIO
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
+$ENDCMP
+#
+$CMP PMOD-Device-x1-Type-2-SPI
+D PMOD Device Type 2 (SPI)
+K PMOD, Digilent, Device, Type 2, SPI
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
+$ENDCMP
+#
+$CMP PMOD-Device-x2-Type-2A-Expanded-SPI
+D PMOD Device Type 1A (Expanded SPI)
+K PMOD, Digilent, Device, Type 2A, Expanded SPI
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
+$ENDCMP
+#
+$CMP PMOD-Device-x2-Type-3-UART
+D PMOD Device Type 3 (UART)
+K PMOD, Digilent, Device, Type 3, UART
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
+$ENDCMP
+#
+$CMP PMOD-Device-x2-Type-4-UART
+D PMOD Device Type 4 (UART)
+K PMOD, Digilent, Device, Type 4, UART
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
+$ENDCMP
+#
+$CMP PMOD-Device-x2-Type-4A-Expanded-UART
+D PMOD Device Type 4A (Expanded UART)
+K PMOD, Digilent, Device, Type 4A, Expanded UART
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
 $ENDCMP
 #
 #End Doc Library
