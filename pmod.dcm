@@ -6,15 +6,15 @@ K PMOD, Digilent, Device, Type 1, GPIO
 F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
 $ENDCMP
 #
-$CMP PMOD-Device-x2-Type-1A-GPIO
-D PMOD Device Type 1A (Expanded/Dual GPIO)
-K PMOD, Digilent, Device, Type 1A, GPIO
-F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
-$ENDCMP
-#
 $CMP PMOD-Device-x1-Type-2-SPI
 D PMOD Device Type 2 (SPI)
 K PMOD, Digilent, Device, Type 2, SPI
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
+$ENDCMP
+#
+$CMP PMOD-Device-x2-Type-1A-GPIO
+D PMOD Device Type 1A (Expanded/Dual GPIO)
+K PMOD, Digilent, Device, Type 1A, GPIO
 F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
 $ENDCMP
 #
