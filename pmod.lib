@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF PMOD-CONN_6X2 P 0 40 Y N 1 F N
 F0 "P" 0 350 60 H V C CNN
 F1 "PMOD-CONN_6X2" 0 0 39 V V C CNN
-F2 "" 0 0 60 H V C CNN
+F2 "pmod-conn_6x2:pmod_pin_array_6x2" 120 -410 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
 T 900 40 10 10 0 0 0 (Pins~closest~to~edge) Normal 0 C C
@@ -227,7 +227,7 @@ ENDDEF
 DEF PMOD-HS P 0 40 Y N 1 F N
 F0 "P" 0 350 60 H V C CNN
 F1 "PMOD-HS" 0 -340 39 H V C CNN
-F2 "" 0 0 60 H V C CNN
+F2 "pmod-conn_6x2:pmod_pin_array_6x2" 120 -410 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
 T 0 260 380 10 0 0 0 (Pins~closest~to~edge) Normal 0 C T
@@ -333,7 +333,7 @@ ENDDEF
 DEF PMOD-XADC P 0 40 Y N 1 F N
 F0 "P" 0 350 60 H V C CNN
 F1 "PMOD-XADC" 0 -340 39 H V C CNN
-F2 "" 0 0 60 H V C CNN
+F2 "pmod-conn_6x2:pmod_pin_array_6x2" 120 -410 60 H I C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
 T 0 260 380 10 0 0 0 (Pins~closest~to~edge) Normal 0 C T
