@@ -137,10 +137,7 @@ F1 "PMOD-Device-x2-Type-1A-GPIO" -360 -710 50 V I L CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
- Pin_Header_Straight_2X06
- Pin_Header_Angled_2X06
- Socket_Strip_Straight_2X06
- Socket_Strip_Angled_2X06
+ pmod_pin_array_6x2
 $ENDFPLIST
 DRAW
 T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
@@ -168,16 +165,17 @@ ENDDEF
 #
 DEF ~PMOD-Device-x2-Type-2A-Expanded-SPI PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -130 -50 50 H V C CNN
-F1 "PMOD-Device-x2-Type-2A-Expanded-SPI" -390 100 50 V I C CNN
-F2 "pmod-conn_6x2:pmod_pin_array_6x2" -480 120 60 V I C CNN
+F1 "PMOD-Device-x2-Type-2A-Expanded-SPI" -360 -710 50 V I L CNN
+F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
- Pin_Header_Straight_2X06
- Pin_Header_Angled_2X06
- Socket_Strip_Straight_2X06
- Socket_Strip_Angled_2X06
+ pmod_pin_array_6x2
 $ENDFPLIST
 DRAW
+T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
+T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
+T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
 S -250 -100 0 -700 0 1 0 N
 S 0 600 -250 0 0 1 0 N
 X SS 1 150 550 150 L 50 50 1 1 O
@@ -199,16 +197,17 @@ ENDDEF
 #
 DEF ~PMOD-Device-x2-Type-4A-Expanded-UART PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -130 -50 50 H V C CNN
-F1 "PMOD-Device-x2-Type-4A-Expanded-UART" -300 150 50 V I C CNN
-F2 "pmod-conn_6x2:pmod_pin_array_6x2" -390 150 60 V I C CNN
+F1 "PMOD-Device-x2-Type-4A-Expanded-UART" -360 -710 50 V I L CNN
+F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
- Pin_Header_Straight_2X06
- Pin_Header_Angled_2X06
- Socket_Strip_Straight_2X06
- Socket_Strip_Angled_2X06
+ pmod_pin_array_6x2
 $ENDFPLIST
 DRAW
+T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
+T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
+T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
 S -250 -100 0 -700 0 1 0 N
 S 0 600 -250 0 0 1 0 N
 X CTS 1 150 550 150 L 50 50 1 1 I
