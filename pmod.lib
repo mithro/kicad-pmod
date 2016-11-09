@@ -85,8 +85,8 @@ ENDDEF
 #
 DEF ~PMOD-Device-x2-Type-1A-GPIO PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -100 -50 50 H V C CNN
-F1 "PMOD-Device-x2-Type-1A-GPIO" -300 -50 50 V I C CNN
-F2 "Pin_Headers:Pin_Header_Angled_2x06" -390 150 60 V I C CNN
+F1 "PMOD-Device-x2-Type-1A-GPIO" -370 -60 50 V I C CNN
+F2 "Pin_Headers:Pin_Header_Angled_2x06" -450 140 60 V I C CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
  Pin_Header_Straight_2X06
@@ -95,6 +95,10 @@ $FPLIST
  Socket_Strip_Angled_2X06
 $ENDFPLIST
 DRAW
+T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
+T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
+T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
 S -250 -100 0 -700 0 1 0 N
 S 0 600 -250 0 0 1 0 N
 X IOA0 1 150 550 150 L 50 50 1 1 B
