@@ -281,8 +281,6 @@ F1 "PMOD-Host-x1-GPIO" 250 400 50 V I C CNN
 F2 "" 50 300 60 H V C CNN
 F3 "" 50 300 60 H V C CNN
 $FPLIST
- Pin_Header_Straight_1X06
- Pin_Header_Angled_1X06
  Socket_Strip_Straight_1X06
  Socket_Strip_Angled_1X06
 $ENDFPLIST
@@ -305,8 +303,6 @@ F1 "PMOD-Host-x2-GPIO" 300 -300 50 V I C CNN
 F2 "" 50 300 60 H V C CNN
 F3 "" 50 300 60 H V C CNN
 $FPLIST
- Pin_Header_Straight_2X06
- Pin_Header_Angled_2X06
  Socket_Strip_Straight_2X06
  Socket_Strip_Angled_2X06
 $ENDFPLIST
