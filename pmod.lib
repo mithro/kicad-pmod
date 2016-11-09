@@ -5,8 +5,8 @@ EESchema-LIBRARY Version 2.3
 #
 DEF ~PMOD-Device-x1-Type-1-GPIO PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -130 -50 50 H V C CNN
-F1 "PMOD-Device-x1-Type-1-GPIO" -250 -10 50 V I L CNN
-F2 "Pin_Headers:Pin_Header_Angled_1x06" -320 -10 50 V I L CNN
+F1 "PMOD-Device-x1-Type-1-GPIO" -290 -10 50 V I L CNN
+F2 "Pin_Headers:Pin_Header_Angled_1x06" -360 -10 50 V I L CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
  Pin_Header_Straight_1X06
@@ -15,7 +15,7 @@ $FPLIST
  Socket_Strip_Angled_1X06
 $ENDFPLIST
 DRAW
-S 0 600 -200 0 0 1 0 N
+S 0 600 -250 0 0 1 0 N
 X IO0 1 150 550 150 L 50 50 1 1 B
 X IO1 2 150 450 150 L 50 50 1 1 B
 X IO2 3 150 350 150 L 50 50 1 1 B
