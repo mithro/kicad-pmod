@@ -51,8 +51,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-1A-GPIO
 #
-DEF ~PMOD-Device-x2-Type-1A-GPIO PMODD 0 40 Y Y 1 F N
-F0 "PMODD" -100 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-1A-GPIO PMOD 0 40 Y Y 1 F N
+F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-1A-GPIO" -300 -50 50 V I C CNN
 F2 "" -50 300 60 H V C CNN
 F3 "" -50 300 60 H V C CNN
@@ -82,8 +82,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-2A-Expanded-SPI
 #
-DEF ~PMOD-Device-x2-Type-2A-Expanded-SPI PMODD 0 40 Y Y 1 F N
-F0 "PMODD" -100 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-2A-Expanded-SPI PMOD 0 40 Y Y 1 F N
+F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-2A-Expanded-SPI" -300 100 50 V I C CNN
 F2 "" -50 300 60 H V C CNN
 F3 "" -50 300 60 H V C CNN
@@ -161,8 +161,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-4A-Expanded-UART
 #
-DEF ~PMOD-Device-x2-Type-4A-Expanded-UART PMODD 0 40 Y Y 1 F N
-F0 "PMODD" -100 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-4A-Expanded-UART PMOD 0 40 Y Y 1 F N
+F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-4A-Expanded-UART" -300 150 50 V I C CNN
 F2 "" -50 300 60 H V C CNN
 F3 "" -50 300 60 H V C CNN
@@ -216,8 +216,8 @@ ENDDEF
 #
 # PMOD-Host-x2-GPIO
 #
-DEF ~PMOD-Host-x2-GPIO PMODD 0 40 Y Y 1 F N
-F0 "PMODD" 0 -50 50 H V C CNN
+DEF ~PMOD-Host-x2-GPIO PMOD 0 40 Y Y 1 F N
+F0 "PMOD" 0 -50 50 H V C CNN
 F1 "PMOD-Host-x2-GPIO" 300 -300 50 V I C CNN
 F2 "" 50 300 60 H V C CNN
 F3 "" 50 300 60 H V C CNN
