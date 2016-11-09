@@ -23,9 +23,12 @@ PMOD
 ======================
 
 Pmod interface or Peripheral Module interface is a standard defined by Digilent
-Inc in the 
+Inc in the
 [Digilent Pmod™ Interface Specification](http://www.digilentinc.com/Pmods/licensing.cfm)
 for peripherals used with FPGAs or micro-controllers.
+
+A lot of [Pmod information is collected in the following Google Spreadsheet
+](https://docs.google.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=826995092)
 
 The PMOD header is found on a wide variety of FPGA boards including many not
 developed by Digilent,
@@ -35,9 +38,9 @@ developed by Digilent,
    The board only has 1 "dual" PMOD header by default but can have another 4
    dual added by the vmod-mib expansion board.
 
- * [Zybo](http://www.digilentinc.com/Products/Detail.cfm?NavPath=2,400,1198&Prod=ZYBO), 
+ * [Zybo](http://www.digilentinc.com/Products/Detail.cfm?NavPath=2,400,1198&Prod=ZYBO),
    A low cost Xilinx Zynq development board.
-   The board has 5 dual PMOD headers and one dual Analog PMOD header. 
+   The board has 5 dual PMOD headers and one dual Analog PMOD header.
 
  * [Zedboard](http://zedboard.org/product/zedboard),
    A higher end, very popular Xilinx Zynq development board.
@@ -66,7 +69,7 @@ There are a number of unofficial extensions to the PMOD standard. These include;
 Contributing
 ======================
 
-I **love** contributions. Just fork and send me a pull request! 
+I **love** contributions. Just fork and send me a pull request!
 
 **If I don't respond to your pull request within a couple of days, please poke
 me!**
@@ -80,7 +83,7 @@ Author & License
 
 This library was created by [Tim 'mithro' Ansell](https://blog.mithis.net/).
 
-This library is released under the 
+This library is released under the
 [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 If you use this library for anything, I'd love an [email](mithro@mithis.com)
