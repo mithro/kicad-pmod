@@ -115,7 +115,9 @@ DRAW
 T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
 T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
 T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 0 -260 650 39 0 0 0 GPIO Normal 0 L C
 T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
+T 0 -260 720 39 0 0 0 Type~1A Normal 0 L C
 S -250 -100 0 -700 0 1 0 N
 S 0 600 -250 0 0 1 0 N
 X IOA0 1 150 550 150 L 50 50 1 1 B
@@ -147,7 +149,9 @@ DRAW
 T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
 T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
 T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 0 -260 650 39 0 0 0 Expanded~SPI Normal 0 L C
 T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
+T 0 -260 720 39 0 0 0 Type~2A Normal 0 L C
 S -250 -100 0 -700 0 1 0 N
 S 0 600 -250 0 0 1 0 N
 X SS 1 150 550 150 L 50 50 1 1 O
@@ -179,7 +183,9 @@ DRAW
 T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
 T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
 T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 0 -260 650 39 0 0 0 Expanded~UART Normal 0 L C
 T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
+T 0 -260 720 39 0 0 0 Type~4A Normal 0 L C
 S -250 -100 0 -700 0 1 0 N
 S 0 600 -250 0 0 1 0 N
 X CTS 1 150 550 150 L 50 50 1 1 I
@@ -461,7 +467,9 @@ DRAW
 T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
 T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
 T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 0 -260 650 39 0 0 0 GPIO Normal 0 L C
 T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
+T 0 -260 720 39 0 0 0 Type~1A Normal 0 L C
 S -250 -100 0 -700 0 1 0 N
 S 0 600 -250 0 0 1 0 N
 X IOB0 1 150 -150 150 L 50 50 1 1 B
