@@ -86,7 +86,7 @@ ENDDEF
 DEF ~PMOD-Device-x2-Type-1A-GPIO PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-1A-GPIO" -300 -50 50 V I C CNN
-F2 "" -50 300 60 H V C CNN
+F2 "Pin_Headers:Pin_Header_Angled_2x06" -390 150 60 V I C CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
  Pin_Header_Straight_2X06
@@ -117,7 +117,7 @@ ENDDEF
 DEF ~PMOD-Device-x2-Type-2A-Expanded-SPI PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-2A-Expanded-SPI" -300 100 50 V I C CNN
-F2 "" -50 300 60 H V C CNN
+F2 "Pin_Headers:Pin_Header_Angled_2x06" -390 150 60 V I C CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
  Pin_Header_Straight_2X06
@@ -148,7 +148,7 @@ ENDDEF
 DEF ~PMOD-Device-x2-Type-3-UART PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-3-UART" -300 650 50 V I C CNN
-F2 "" -50 300 60 H V C CNN
+F2 "Pin_Headers:Pin_Header_Angled_2x06" -390 150 60 V I C CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
  Pin_Header_Straight_2X06
@@ -172,7 +172,7 @@ ENDDEF
 DEF ~PMOD-Device-x2-Type-4-UART PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-4-UART" -300 650 50 V I C CNN
-F2 "" -50 300 60 H V C CNN
+F2 "Pin_Headers:Pin_Header_Angled_2x06" -390 150 60 V I C CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
  Pin_Header_Straight_2X06
@@ -196,7 +196,7 @@ ENDDEF
 DEF ~PMOD-Device-x2-Type-4A-Expanded-UART PMOD 0 40 Y Y 1 F N
 F0 "PMOD" -100 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-4A-Expanded-UART" -300 150 50 V I C CNN
-F2 "" -50 300 60 H V C CNN
+F2 "Pin_Headers:Pin_Header_Angled_2x06" -390 150 60 V I C CNN
 F3 "" -50 300 60 H V C CNN
 $FPLIST
  Pin_Header_Straight_2X06
