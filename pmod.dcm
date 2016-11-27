@@ -36,6 +36,12 @@ K PMOD, Digilent, Device, Type 2A, Expanded SPI
 F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
 $ENDCMP
 #
+$CMP PMOD-Device-x2-Type-4A+-Expanded-UART
+D PMOD Device Type 4A (Expanded UART)
+K PMOD, Digilent, Device, Type 4A, Expanded UART
+F https://docs.google.com/a/mithis.com/spreadsheets/d/1D-GboyrP57VVpejQzEm0P1WEORo1LAIt92hk1bZGEoo/edit#gid=0
+$ENDCMP
+#
 $CMP PMOD-Device-x2-Type-4A-Expanded-UART
 D PMOD Device Type 4A (Expanded UART)
 K PMOD, Digilent, Device, Type 4A, Expanded UART

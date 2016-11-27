@@ -169,6 +169,40 @@ X VCC 12 150 -650 150 L 50 50 1 1 w X
 ENDDRAW
 ENDDEF
 #
+# PMOD-Device-x2-Type-4A+-Expanded-UART
+#
+DEF ~PMOD-Device-x2-Type-4A+-Expanded-UART PMOD 0 40 Y Y 1 F N
+F0 "PMOD" -130 -50 50 H V C CNN
+F1 "PMOD-Device-x2-Type-4A+-Expanded-UART" -360 -710 50 V I L CNN
+F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
+F3 "" -50 300 60 H V C CNN
+$FPLIST
+ pmod_pin_array_6x2
+$ENDFPLIST
+DRAW
+T 900 -230 -530 20 0 0 0 (Closest~to~the~edge) Normal 0 C C
+T 900 -230 200 20 0 0 0 (Furthest~from~the~edge) Normal 0 C C
+T 900 -290 -530 39 0 0 0 Bottom~Row Normal 0 C C
+T 0 -260 650 39 0 0 0 Expanded~UART Normal 0 L C
+T 900 -290 130 39 0 0 0 Top~Row Normal 0 C C
+T 0 -260 720 39 0 0 0 Type~4A+ Normal 0 L C
+S -250 -100 0 -700 0 1 0 N
+S 0 600 -250 0 0 1 0 N
+X CTS 1 150 550 150 L 50 50 1 1 I
+X TXD 2 150 450 150 L 50 50 1 1 O
+X RXD 3 150 350 150 L 50 50 1 1 I
+X RTS 4 150 250 150 L 50 50 1 1 O
+X GND 5 150 150 150 L 50 50 1 1 w X
+X VCC 6 150 50 150 L 50 50 1 1 w X
+X INT 7 150 -150 150 L 50 50 1 1 I
+X RST 8 150 -250 150 L 50 50 1 1 O
+X NC1 9 150 -350 150 L 50 50 1 1 B
+X NC2 10 150 -450 150 L 50 50 1 1 B
+X GND 11 150 -550 150 L 50 50 1 1 w X
+X VCC 12 150 -650 150 L 50 50 1 1 w X
+ENDDRAW
+ENDDEF
+#
 # PMOD-Device-x2-Type-4A-Expanded-UART
 #
 DEF ~PMOD-Device-x2-Type-4A-Expanded-UART PMOD 0 40 Y Y 1 F N
