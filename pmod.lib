@@ -3,8 +3,8 @@ EESchema-LIBRARY Version 2.3
 #
 # PMOD-Device-x1-Type-1-GPIO
 #
-DEF ~PMOD-Device-x1-Type-1-GPIO PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x1-Type-1-GPIO J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x1-Type-1-GPIO" -350 -10 50 V I L CNN
 F2 "Pin_Headers:Pin_Header_Angled_1x06" -420 -10 50 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -28,8 +28,8 @@ ENDDEF
 #
 # PMOD-Device-x1-Type-2-SPI
 #
-DEF ~PMOD-Device-x1-Type-2-SPI PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x1-Type-2-SPI J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x1-Type-2-SPI" -350 -10 50 V I L CNN
 F2 "Pin_Headers:Pin_Header_Angled_1x06" -420 -10 50 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -53,8 +53,8 @@ ENDDEF
 #
 # PMOD-Device-x1-Type-3-UART
 #
-DEF ~PMOD-Device-x1-Type-3-UART PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x1-Type-3-UART J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x1-Type-3-UART" -350 -10 50 V I L CNN
 F2 "Pin_Headers:Pin_Header_Angled_1x06" -420 -10 50 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -78,8 +78,8 @@ ENDDEF
 #
 # PMOD-Device-x1-Type-4-UART
 #
-DEF ~PMOD-Device-x1-Type-4-UART PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x1-Type-4-UART J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x1-Type-4-UART" -350 -10 50 V I L CNN
 F2 "Pin_Headers:Pin_Header_Angled_1x06" -420 -10 50 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -103,8 +103,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-1A-GPIO
 #
-DEF ~PMOD-Device-x2-Type-1A-GPIO PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-1A-GPIO J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-1A-GPIO" -360 -710 50 V I L CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -137,8 +137,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-2A-Expanded-SPI
 #
-DEF ~PMOD-Device-x2-Type-2A-Expanded-SPI PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-2A-Expanded-SPI J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-2A-Expanded-SPI" -360 -710 50 V I L CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -171,8 +171,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-4A+-Expanded-UART
 #
-DEF ~PMOD-Device-x2-Type-4A+-Expanded-UART PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-4A+-Expanded-UART J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-4A+-Expanded-UART" -360 -710 50 V I L CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -205,8 +205,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-4A-Expanded-UART
 #
-DEF ~PMOD-Device-x2-Type-4A-Expanded-UART PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-4A-Expanded-UART J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-4A-Expanded-UART" -360 -710 50 V I L CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -239,8 +239,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-Generic-Alt
 #
-DEF PMOD-Device-x2-Type-Generic-Alt P 0 40 Y N 1 F N
-F0 "P" 100 650 60 H V C CNN
+DEF PMOD-Device-x2-Type-Generic-Alt J 0 40 Y N 1 F N
+F0 "J" 100 650 60 H V C CNN
 F1 "PMOD-Device-x2-Type-Generic-Alt" 90 -40 39 H V C CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" 100 -110 39 H I C CNN
 F3 "" 100 300 60 H V C CNN
@@ -271,8 +271,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-XADC
 #
-DEF ~PMOD-Device-x2-Type-XADC PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-XADC J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-XADC" -360 -710 50 V I L CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -303,8 +303,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-XADC-Alt
 #
-DEF PMOD-Device-x2-Type-XADC-Alt P 0 40 Y N 1 F N
-F0 "P" 100 650 60 H V C CNN
+DEF PMOD-Device-x2-Type-XADC-Alt J 0 40 Y N 1 F N
+F0 "J" 100 650 60 H V C CNN
 F1 "PMOD-Device-x2-Type-XADC-Alt" 90 -40 39 H V C CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" 100 -110 39 H I C CNN
 F3 "" 100 300 60 H V C CNN
@@ -351,8 +351,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-XHS
 #
-DEF ~PMOD-Device-x2-Type-XHS PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -130 -50 50 H V C CNN
+DEF ~PMOD-Device-x2-Type-XHS J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "PMOD-Device-x2-Type-XHS" -360 -710 50 V I L CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -387,8 +387,8 @@ ENDDEF
 #
 # PMOD-Device-x2-Type-XHS-Alt
 #
-DEF PMOD-Device-x2-Type-XHS-Alt P 0 40 Y N 1 F N
-F0 "P" 100 650 60 H V C CNN
+DEF PMOD-Device-x2-Type-XHS-Alt J 0 40 Y N 1 F N
+F0 "J" 100 650 60 H V C CNN
 F1 "PMOD-Device-x2-Type-XHS-Alt" 90 -40 39 H V C CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" 100 -110 39 H I C CNN
 F3 "" 100 300 60 H V C CNN
@@ -438,8 +438,8 @@ ENDDEF
 #
 # PMOD-Host-x1-GPIO
 #
-DEF ~PMOD-Host-x1-GPIO PMOD 0 40 Y Y 1 F N
-F0 "PMOD" -50 -50 50 H V C CNN
+DEF ~PMOD-Host-x1-GPIO J 0 40 Y Y 1 F N
+F0 "J" 100 -50 50 H V C CNN
 F1 "PMOD-Host-x1-GPIO" 250 400 50 V I C CNN
 F2 "" 50 300 60 H V C CNN
 F3 "" 50 300 60 H V C CNN
@@ -460,8 +460,8 @@ ENDDEF
 #
 # PMOD-Host-x2-GPIO
 #
-DEF ~PMOD-Host-x2-GPIO PMOD 0 40 Y Y 1 F N
-F0 "PMOD" 0 -50 50 H V C CNN
+DEF ~PMOD-Host-x2-GPIO J 0 40 Y Y 1 F N
+F0 "J" 0 -50 50 H V C CNN
 F1 "PMOD-Host-x2-GPIO" 300 -300 50 V I C CNN
 F2 "" 50 300 60 H V C CNN
 F3 "" 50 300 60 H V C CNN
@@ -489,8 +489,8 @@ ENDDEF
 #
 # QMOD-Device-x2-Type-1A-GPIO
 #
-DEF ~QMOD-Device-x2-Type-1A-GPIO QMOD 0 40 Y Y 1 F N
-F0 "QMOD" -130 -50 50 H V C CNN
+DEF ~QMOD-Device-x2-Type-1A-GPIO J 0 40 Y Y 1 F N
+F0 "J" -130 -50 50 H V C CNN
 F1 "QMOD-Device-x2-Type-1A-GPIO" -360 -710 50 V I L CNN
 F2 "Pin_Headers:Pin_Header_Straight_2x06" -450 -710 60 V I L CNN
 F3 "" -50 300 60 H V C CNN
@@ -523,8 +523,8 @@ ENDDEF
 #
 # QMOD-Device-x2-Type-Generic-Alt
 #
-DEF QMOD-Device-x2-Type-Generic-Alt P 0 40 Y N 1 F N
-F0 "P" 100 650 60 H V C CNN
+DEF QMOD-Device-x2-Type-Generic-Alt J 0 40 Y N 1 F N
+F0 "J" 100 650 60 H V C CNN
 F1 "QMOD-Device-x2-Type-Generic-Alt" 90 -40 39 H V C CNN
 F2 "pmod-conn_6x2:pmod_pin_array_6x2" 100 -110 39 H I C CNN
 F3 "" 100 300 60 H V C CNN
