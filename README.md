@@ -50,6 +50,10 @@ developed by Digilent,
    A budget Spartan 6 board with plenty of power.
    The board has 5 dual PMOD headers.
 
+ * [Arty A7](https://reference.digilentinc.com/reference/programmable-logic/arty-a7/start)
+   An affordable Xilinx Artix-7 development board.
+   The board has 4 dual PMOD headers.
+
 Example Pmod expansion boards can be purchased from;
 
  * Digilent at http://www.digilentinc.com/Products/Catalog.cfm?NavPath=2,401&Cat=9
